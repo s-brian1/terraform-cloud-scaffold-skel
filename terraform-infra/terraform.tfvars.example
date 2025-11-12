@@ -1,0 +1,7 @@
+# Example variable values for Terraform configuration
+region = "us-east-1"
+vpc_cidr = "10.0.0.0/16"
+instance_type = "t2.micro"
+ami_id = "ami-0c55b159cbfafe1f0" # Example AMI ID for Amazon Linux 2
+bucket_name = "my-example-bucket"
+storage_class = "STANDARD"
